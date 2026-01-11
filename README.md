@@ -31,7 +31,4 @@ Passionate about building robust APIs, writing clean, maintainable code, and opt
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aquinozz&layout=compact&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aquinozz&theme=dark" />
-</p>
 
