@@ -24,13 +24,14 @@ Passionate about building robust APIs, writing clean, maintainable code, and opt
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aquinozz&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aquinozz&show_icons=true&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aquinozz&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aquinozz&layout=compact&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Aquinozz&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Aquinozz&theme=dark" />
 </p>
+
