@@ -21,10 +21,8 @@ I am a backend-focused developer with a strong interest in **Python** and scalab
 
 ### 📊 My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aquinozz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&reload=true" alt="Estatísticas de Aquinozz" />
-</p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aquinozz&theme=visual_studio_dark" alt="Stats" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aquinozz&layout=compact&langs_count=7&theme=dark&reload=true" alt="Linguagens mais usadas" />
-</p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aquinozz&theme=visual_studio_dark" alt="Linguagens" /> </p>
+
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aquinozz&theme=dark" alt="GitHub Streak" /> </p>
