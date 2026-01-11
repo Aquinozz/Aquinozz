@@ -20,4 +20,4 @@ I am a backend-focused developer with a strong interest in **Python** and scalab
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Aquinozz&show_icons=true&theme=dark)
