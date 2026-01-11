@@ -1,4 +1,4 @@
-# 👨‍💻 What's up! I'm Aquinozz
+# 👨‍💻 What's up! I'm Aquinoz
 
 ## Backend Developer
 
