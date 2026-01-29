@@ -1,4 +1,4 @@
-<h1 align="left">👨‍💻 Hi, I'm Aquinoz</h1>
+<h1 align="left">👨‍💻 Hi, I'm Aquinozz</h1>
 
 <h3 align="left">Backend Developer | Python & Scalable Systems</h3>
 
@@ -11,7 +11,7 @@ I specialize in creating robust APIs, writing clean and maintainable code, and o
 
 <h2 align="left">🚀 What I Do</h2>
 
-<ul align="left">
+<ul>
   <li>Design and develop RESTful APIs using <b>FastAPI</b> and <b>Flask</b></li>
   <li>Work with relational databases (<b>PostgreSQL</b>, <b>MySQL</b>)</li>
   <li>Write clean, maintainable, and well-tested backend code</li>
@@ -44,7 +44,7 @@ I specialize in creating robust APIs, writing clean and maintainable code, and o
 
 <h2 align="left">📚 Currently Learning</h2>
 
-<ul align="left">
+<ul>
   <li>Advanced FastAPI & async patterns</li>
   <li>Backend system design</li>
   <li>Performance optimization & scalability</li>
@@ -55,10 +55,19 @@ I specialize in creating robust APIs, writing clean and maintainable code, and o
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aquinozz&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aquinozz&layout=compact&theme=dracula" height="150" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Aquinozz&show_icons=true&theme=dracula"
+    height="150"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Aquinozz&layout=compact&theme=dracula"
+    height="150"
+  />
 </div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/Aquinozz/Aquinozz/output/snake.svg" alt="Snake animation" />
+<img
+  src="https://raw.githubusercontent.com/Aquinozz/Aquinozz/main/dist/snake.svg"
+  alt="Snake animation"
+/>
