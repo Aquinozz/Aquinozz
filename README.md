@@ -62,6 +62,3 @@ I specialize in creating robust APIs, writing clean and maintainable code, and o
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aquinozz&layout=compact&theme=dark" />
 </p>
 
----
-
-<img src="https://raw.githubusercontent.com/Aquinozz/Aquinozz/output/snake.svg" alt="Snake animation" />
