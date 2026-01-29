@@ -64,7 +64,4 @@ I specialize in creating robust APIs, writing clean and maintainable code, and o
 
 ---
 
-<img
-  src="https://raw.githubusercontent.com/Aquinozz/Aquinozz/main/dist/snake.svg"
-  alt="Snake animation"
-/>
+<img src="https://raw.githubusercontent.com/Aquinozz/Aquinozz/output/snake.svg" alt="Snake animation" />
