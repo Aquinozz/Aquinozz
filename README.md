@@ -54,16 +54,13 @@ I specialize in creating robust APIs, writing clean and maintainable code, and o
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Aquinozz&show_icons=true&theme=dracula"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Aquinozz&layout=compact&theme=dracula"
-    height="150"
-  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aquinozz&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aquinozz&layout=compact&theme=dark" />
+</p>
 
 ---
 
