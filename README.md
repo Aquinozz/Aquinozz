@@ -13,7 +13,8 @@ I specialize in creating robust APIs, writing clean and maintainable code, and o
 
 <ul>
   <li>Design and develop RESTful APIs using <b>FastAPI</b> and <b>Flask</b></li>
-  <li>Work with relational databases (<b>PostgreSQL</b>, <b>MySQL</b>)</li>
+  <li>Build web applications using <b>Django</b></li>
+  <li>Work with relational databases (<b>PostgreSQL</b>, <b>MySQL</b>, <b>)SQLite</b></li>
   <li>Write clean, maintainable, and well-tested backend code</li>
   <li>Containerize applications using <b>Docker</b></li>
 </ul>
@@ -30,6 +31,8 @@ I specialize in creating robust APIs, writing clean and maintainable code, and o
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" />
   <img width="12" />
