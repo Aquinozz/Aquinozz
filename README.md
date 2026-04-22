@@ -1,6 +1,6 @@
 <h1 align="left">👨‍💻 Hi, I'm Aquinozz</h1>
 
-<h3 align="left">Backend Developer | Python, Java & Scalable Systems</h3>
+<h3 align="left">Backend Developer | Java, Python & Scalable Systems</h3>
 
 <p align="left">
 I’m a backend-focused developer who enjoys designing and building scalable, reliable systems.
