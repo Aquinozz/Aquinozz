@@ -14,7 +14,6 @@ I also build enterprise-grade backend applications using Java and Spring.
 
 <ul>
   <li>Design and develop RESTful APIs using <b>FastAPI</b>, <b>Flask</b>, and <b>Spring Boot</b></li>
-  <li>Build web applications using <b>Django</b> and <b>Spring</b></li>
   <li>Develop backend systems with <b>Python</b> and <b>Java</b></li>
   <li>Work with relational databases (<b>PostgreSQL</b>, <b>MySQL</b>, <b>SQLite</b>)</li>
   <li>Write clean, maintainable, and well-tested backend code</li>
@@ -41,8 +40,6 @@ I also build enterprise-grade backend applications using Java and Spring.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
   <img width="12" />
