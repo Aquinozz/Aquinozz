@@ -51,10 +51,14 @@ I also build enterprise-grade backend applications using Java and Spring.
 <h2 align="left">📚 Currently Learning</h2>
 
 <ul>
-  <li>Spring Boot & Java backend architecture</li>
-  <li>Advanced FastAPI & async patterns</li>
-  <li>Backend system design</li>
-  <li>Performance optimization & scalability</li>
+  <li>Microservices architecture with Spring Boot & Spring Cloud</li>
+  <li>Async communication with Apache Kafka</li>
+  <li>Circuit Breaker and resilience with Resilience4j</li>
+  <li>Distributed security with JWT in microservices</li>
+  <li>API Gateway and Service Discovery (Eureka)</li>
+  <li>Unit testing with JUnit 5 and Mockito</li>
+  <li>Docker and Docker Compose</li>
+  <li>Scalable system design</li>
 </ul>
 
 ---
