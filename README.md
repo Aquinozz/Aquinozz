@@ -17,7 +17,7 @@ I also build enterprise-grade backend applications using Java and Spring.
   <li> Develop microservices with <b>Spring Cloud</b>, <b>Eureka</b>, <b>and API Gateway</b></li>
   <li>Implement async messaging with <b>Apache Kafka</b></li>
   <li>Develop backend systems with <b>Python</b> and <b>Java</b></li>
-  <li>Work with relational databases (<b>PostgreSQL</b>, <b>MySQL</b>, <b>SQLite</b>)</li>
+  <li>Work with relational databases (<b>PostgreSQL</b>, <b>MySQL</b>)</li>
   <li>Write clean, maintainable, and well-tested backend code</li>
   <li>Containerize applications using <b>Docker</b></li>
 </ul>
