@@ -14,6 +14,8 @@ I also build enterprise-grade backend applications using Java and Spring.
 
 <ul>
   <li>Design and develop RESTful APIs using <b>FastAPI</b>, <b>Flask</b>, and <b>Spring Boot</b></li>
+  <li> Develop microservices with <b>Spring Cloud</b>, <b>Eureka</b>, <b>and API Gateway</b></li>
+  <li>Implement async messaging with <b>Apache Kafka</b></li>
   <li>Develop backend systems with <b>Python</b> and <b>Java</b></li>
   <li>Work with relational databases (<b>PostgreSQL</b>, <b>MySQL</b>, <b>SQLite</b>)</li>
   <li>Write clean, maintainable, and well-tested backend code</li>
@@ -35,7 +37,7 @@ I also build enterprise-grade backend applications using Java and Spring.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" />
   <img width="12" />
@@ -48,7 +50,7 @@ I also build enterprise-grade backend applications using Java and Spring.
 
 ---
 
-<h2 align="left">📚 Currently Learning</h2>
+<h2 align="left">🔧 Building With </h2>
 
 <ul>
   <li>Microservices architecture with Spring Boot & Spring Cloud</li>
