@@ -62,15 +62,3 @@ I also build enterprise-grade backend applications using Java and Spring.
   <li>Docker and Docker Compose</li>
   <li>Scalable system design</li>
 </ul>
-
----
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aquinozz&show_icons=true&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aquinozz&layout=compact&theme=dark" />
-</p>
