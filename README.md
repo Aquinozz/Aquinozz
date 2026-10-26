@@ -63,7 +63,3 @@ I also build enterprise-grade backend applications using Java and Spring.
   <li>Scalable system design</li>
 </ul>
 
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aquinozz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
