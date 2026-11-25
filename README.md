@@ -64,10 +64,3 @@ I also build enterprise-grade backend applications using Java and Spring.
 </ul>
 
 
-
----
-
-## 🚀 Startups
-
-- ZooPet: experiência no desenvolvimento
-- RelvoJus: experiência no desenvolvimento
